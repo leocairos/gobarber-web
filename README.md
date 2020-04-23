@@ -1,6 +1,8 @@
 # GoBarbe
 
-## Initial commit with react-app-typescript-template
+GoBarber Web Project - BootCamp April/2020 (by RocketSeat)
+
+#  Initial commit with react-app-typescript-template
 
 * copy
   * .editorconfig
