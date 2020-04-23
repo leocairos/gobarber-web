@@ -2,7 +2,7 @@
 
 GoBarber Web Project - BootCamp April/2020 (by RocketSeat)
 
-#  Initial commit with react-app-typescript-template
+###  Initial commit with react-app-typescript-template
 
 * copy
   * .editorconfig
@@ -36,7 +36,7 @@ GoBarber Web Project - BootCamp April/2020 (by RocketSeat)
 
 #
 
-# README.md projetos anteriores
+## README.md projetos anteriores
 
 
 ## Ambiente de desenvolvimento
