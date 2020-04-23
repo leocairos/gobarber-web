@@ -1,4 +1,4 @@
-# GoBarbe
+# GoBarber
 
 GoBarber Web Project - BootCamp April/2020 (by RocketSeat)
 
