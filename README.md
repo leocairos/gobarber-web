@@ -42,6 +42,13 @@ GoBarber Web Project - BootCamp April/2020 (by RocketSeat)
 ## Ambiente de desenvolvimento
 
 * Node
+  * Instalar via gerenciador de pacotes
+    * Instalar via homebrew (MAC)
+      * $ node@12
+    * Instalar via chocolatey.org (windows)
+      * Via powershell as admin
+    * $ cinst nodejs-lts
+
 * Yarn
 * Visual Studio Code
     * Dracula
