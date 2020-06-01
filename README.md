@@ -320,3 +320,9 @@ build
 
 * //eslint-disable-line
   desabilita a checagem do eslint na linha
+
+* Ferramentas on-line
+  - https://whimsical.com/
+    - The Visual Workspace - Communicate visually at the speed of thought.
+      * Flowcharts / Wireframes / Sticky Notes / Mind Maps
+
