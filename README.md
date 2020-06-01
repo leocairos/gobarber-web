@@ -47,7 +47,7 @@ GoBarber Web Project - BootCamp April/2020 (by RocketSeat)
       * $ node@12
     * Instalar via chocolatey.org (windows)
       * Via powershell as admin
-    * $ cinst nodejs-lts
+      * $ cinst nodejs-lts
 
 * Yarn
 * Visual Studio Code
