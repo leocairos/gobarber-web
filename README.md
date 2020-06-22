@@ -326,3 +326,50 @@ build
     - The Visual Workspace - Communicate visually at the speed of thought.
       * Flowcharts / Wireframes / Sticky Notes / Mind Maps
 
+
+## Testes
+
+* Testing Library (https://testing-library.com/docs/react-testing-library/intro)
+
+* React Hooks Testing Library (https://react-hooks-testing-library.com/)
+
+* React Native Testing Library (https://github.com/callstack/react-native-testing-library)
+
+### Run tests
+
+* yarn test
+* yarn test --coverage --watchAll false
+
+### Update package.json with coverage
+```
+"scripts": {
+  "start": "react-scripts start",
+  "build": "react-scripts build",
+  "test": "react-scripts test",
+  "test:coverage": "react-scripts test --coverage --watchAll false",
+  "eject": "react-scripts eject"
+},
+```
+
+### Problemas com coverage
+```
+E o que solucionou para mim foi esse seguinte comentário: https://github.com/facebook/jest/issues/9723#issuecomment-609044606
+
+Basicamente é fazer o downgrade das versões mencionadas!
+
+
+"react": "^16.13.1"
+"react-dom": "^16.13.1"
+"react-scripts": "3.4.1"
+"@testing-library/react": "^9.3.2"
+
+Downgrade:
+"react": "16.13.0"
+"react-dom": "16.13.0"
+"react-scripts": "3.4.0"
+"@testing-library/react": "9.3.2"
+
+Apagar a pasta node_modules e o yarn.lock. Após isso, altere manualmente no seu package.json para as versões mencionadas
+Feito isso, basta instalar as dependências novamente, yarn e testar!
+
+```
