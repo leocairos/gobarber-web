@@ -384,5 +384,14 @@ Feito isso, basta instalar as dependências novamente, yarn e testar!
 
 ## Deploy Frontend
 
-criar .env
-adicionar no  .gitignore
+* criar .env
+* adicionar no  .gitignore
+* atualizar no github
+* deploy no netlify
+  * criar conta
+  * acessar git
+  * configurar variavel (REACT_APP_API_URL)
+  * ajustar DNS
+  * ativar SSL
+
+* deploy Google Cloud
