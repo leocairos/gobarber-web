@@ -3,8 +3,8 @@ import { Switch } from 'react-router-dom';
 
 import Route from './Route';
 
-import SignUp from '../pages/SignUp';
-import SignIn from '../pages/SignIn';
+import SignIn from '../pages/Sign-in';
+import SignUp from '../pages/Sign-up';
 import ForgotPassword from '../pages/ForgotPassword';
 import ResetPassword from '../pages/ResetPassword';
 
