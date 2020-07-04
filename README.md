@@ -373,3 +373,16 @@ Apagar a pasta node_modules e o yarn.lock. Após isso, altere manualmente no seu
 Feito isso, basta instalar as dependências novamente, yarn e testar!
 
 ```
+
+### Sites referencia CSS
+
+* https://css-tricks.com/
+* https://tympanus.net/codrops/
+* https://www.w3schools.com/css/
+* MDN https://developer.mozilla.org/pt-BR/docs/Web/CSS
+
+
+## Deploy Frontend
+
+criar .env
+adicionar no  .gitignore
