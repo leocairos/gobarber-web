@@ -392,6 +392,8 @@ Feito isso, basta instalar as dependências novamente, yarn e testar!
   * acessar git
   * configurar variavel (REACT_APP_API_URL)
   * ajustar DNS
+    * settings >> domain managments >> add custom domain
+    * adicionar na zona DNS "gobarber CNAME zealous-lalande-b182ad.netlify.app."
   * ativar SSL
 
 * deploy Google Cloud
